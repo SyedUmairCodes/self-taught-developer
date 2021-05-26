@@ -6,7 +6,7 @@
 
 > If you are a creator of any of the videos that are listed in this repo and want it removed just create an issue and tell me which video should be removed. And your suggestions are always welcomed.
 
-> One more thing... if you find this guide helpful to you please star it on [GitHub](https://github.com/SyedUmairAli2000/The-self-taught-web-developer-Youtube-edition) and subscribe to all the YouTubers who made all these awesome videos without whom this great resource wouldn't exist, it will make my day and I know that I couldn't include every single video out there and if you find any that you think should be in this list just let me know. 
+> One more thing... if you find this guide helpful to you please star it on [GitHub](https://github.com/SyedUmairAli2000/The-self-taught-web-developer-Youtube-edition) and subscribe to all the YouTubers who made all these awesome videos without whom this great resource wouldn't exist, it will make my day and I know that I couldn't include every single video out there and if you find any that you think should be in this list just let me know.
 ## Table of Contents:
 
 ---
