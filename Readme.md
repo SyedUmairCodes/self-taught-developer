@@ -121,7 +121,6 @@
 - [Make a Landing page from scratch - FreeCodeCamp](https://www.youtube.com/watch?v=aoQ6S1a32j8&t)
 - [Responsive Web design essentials - BringYourOwnLaptop](https://www.youtube.com/watch?v=YLl4Eu-KWMw&list=PLttcEXjN1UcHyrbiVs5Fx8hW3hmY_S8Bj)
 - [Build a modern responsive website - JhonKomarnicki](https://www.youtube.com/watch?v=LRy6k6vqPB4&list=PLVJZjCprNXtVOBuQ94_emIOO6LJn7qlME)
-- []
 ### Ui/Ux:
 
 - [Adobe XD - GFXMentor](https://www.youtube.com/watch?v=6C2Ye1makdY)
@@ -194,8 +193,24 @@
 - [Git explained in 100 seconds - FireShip](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [Git & Github for beginners - AmigosCode](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 
-### JavaScript Frameworks:
 ### Angular:
+
+- [Angular for beginners - AngularUniversity](https://www.youtube.com/watch?v=du6sKwEFrhQ&list=PLOa5YIicjJ-WDC7tEgD_krKalYWVnixXE)
+- [Angular tutorial - MoshHamadani](https://www.youtube.com/watch?v=k5E2AVpwsko)
+- [Angular tutorial in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=0LhBvp8qpro)
+- [Angular 10 tutorial - CodeStepByStep](https://www.youtube.com/watch?v=9CVZks6U0ZY&list=PL8p2I9GklV45JZerGMvw5JVxPSxCg8VPv)
+- [Angular full course - Edureka](https://www.youtube.com/watch?v=xGpHfFf18Ns)
+- [Angular crash course - TraversyMedia](https://www.youtube.com/watch?v=3dHNOWTI7H8&t)
+- [Learn Angular - CodeDamn](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+- [Angular projects - Edureka](https://www.youtube.com/watch?v=HN5oasL5Rmc)
+- [Angular 11 project -FreeCodeCamp](https://www.youtube.com/watch?v=LiOzTQAz13Q&t)
+- [Learn Angular material - FreeCodeCamp](https://www.youtube.com/watch?v=jUfEn032IL8)
+- [Angular material tuorial - MoshHamadani](https://www.youtube.com/watch?v=jUfEn032IL8)
+- [Intro to Agular material - Academind](https://www.youtube.com/watch?v=u679SQsfRVM)
+- [Angular material course - AngularUniversity](https://www.youtube.com/watch?v=ThkdHYbpfC0&list=PLOa5YIicjJ-VC_bz7-v54XbzB8-pOzF66)
+- [Angular universal - AngularUniversity](https://www.youtube.com/watch?v=Kgdzrt82JE8&list=PLOa5YIicjJ-W7kDp0PUzS86QwjHVVG7bq&index=2)
+- [Angular universal with Firebase - FireShip](https://www.youtube.com/watch?v=wij2-gyG12E)
+
 ### React:
 ### Vue:
 ### Node.js (including Express.js):
