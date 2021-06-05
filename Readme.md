@@ -289,6 +289,14 @@
 ### Django:
 ### Databases:
 ### SQL Vs. NoSQL databases:
+
+- [SQL Vs NoSQL explained - BeABetterDev](https://www.youtube.com/watch?v=ruz-vK8IesE)
+- [SQL Vs NoSQL - Academind](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [SQL Vs NoSQL which is better - WebDevSimplified](https://www.youtube.com/watch?v=t0GlGbtMTio)
+- [SQL Vs NoSQL - Edureka](https://www.youtube.com/watch?v=QwevGzVu_zk)
+- [Difference betweenSQL Vs NoSQL - SimpliLearn](https://www.youtube.com/watch?v=jh14LlMHyds)
+- [MySQL vs MongoDB - HiteshChahudhary](https://www.youtube.com/watch?v=Ke4G-c94VBM)
+
 ### MySQL:
 ### PostgresSQL:
 ### MongoDB:
