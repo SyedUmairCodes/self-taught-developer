@@ -212,8 +212,69 @@
 - [Angular universal with Firebase - FireShip](https://www.youtube.com/watch?v=wij2-gyG12E)
 
 ### React:
+
+- [What is React - MoshHamadani](https://www.youtube.com/watch?v=N3AkSS5hXMA)
+- [React crash course 2021 - TraversyMedia](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t)
+- [React tutorial for beginners - MoshHamadani](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+- [Introduction to React - ThapaTechnical](https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
+- [React.js tutorial - Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [React tutorial in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=RGKi6LSPDLU)
+- [React.js full tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=DLX62G4lc44)
+- [React.js tutorial for beginners - CleverProgrammer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
+- [Full React course - FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+- [React crash course for beginners - Academind](https://www.youtube.com/watch?v=Dorf8i6lCuk)
+- [Full React tutorial - NetNinja](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+- [React full tutorial - CodeStepByStep](https://www.youtube.com/watch?v=GiyL4KFRNBA)
+- [React in 8 hours - CleverProgrammer](https://www.youtube.com/watch?v=PE2l8TzHSes)
+- [React in 30 minutes - CleverProgrammer](https://www.youtube.com/watch?v=vIRBSI-elUM)
+- [Full react course for beginners - Edureka](https://www.youtube.com/watch?v=fSp2C7QPH8M)
+- [15 react projects - FreeCodeCamp](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+- [React tutorial - DevEd](https://www.youtube.com/watch?v=dGcsHMXbSOA)
+- [Advance React - Codedammn](https://www.youtube.com/watch?v=MfIoAG3e7p4)
+- [React in 100 seconds - FireShip](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+- [React tutorials - WebDevSimplified](https://www.youtube.com/watch?v=1wZoGFF_oi4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK)
+- [React hooks - WebDevSimplified](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+
+
+> There are many more great tutorials on React.js because of it's popularity but I couldn't list them all. Apologies.
+
 ### Vue:
+
+- [Vue.js Crash course - TraversyMedia](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+- [Vue.js Tutorial in Hindi - CodeStepByStep](https://www.youtube.com/watch?v=aQtRuyvY6EQ&list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn)
+- [Vue.js 2 tutorial - NetNinja](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+- [Vue.js in 100 seconds - FireShip](https://www.youtube.com/watch?v=nhBVL41-_Cw)
+- [Learn Vue.js - FreeCodeCamp](https://www.youtube.com/watch?v=4deVCNJq3qc)
+- [Vue.js 3 in 10 hours - Bitfumes](https://www.youtube.com/watch?v=e-E0UB-YDRk)
+- [Vue.js 3 for beginners - NetNinja](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+- [Vue.js 3 Animations - NetNinja](https://www.youtube.com/watch?v=RIApQjn9fvw&list=PL4cUxeGkcC9ghm7-iTfS9n468Kp7l9Ipu)
+- [Vue.js 3 tutorial - Codevolution](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
+- [Vue.js 3 tutorial in Hindi - CodeStepByStep](https://www.youtube.com/watch?v=h18hbBNxXac&list=PL8p2I9GklV45e7L_qC_mntM7FhSIV8pqa)
+- [Learn Vue.js 3 - TheEarthIsSquare](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
+
 ### Node.js (including Express.js):
+
+- [Node.js for beginners - MoshHamadani](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [Node.js and Express.js full course - FreeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE&t=58s)
+- [Node.js in Hindi - ThapaTechnical](https://www.youtube.com/watch?v=IIpiLZGTWuo&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)
+- [Node.js Crash course - NetNinja](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+- [Node.js tutorial in Hindi - CodeStepByStep](https://www.youtube.com/watch?v=_30Nn8urbmU&list=PL8p2I9GklV44X970xDCQvts19-0XQWMeA)
+- [Learn Node.js - FreeCodeCamp](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+- [Node.js full course - Edureka](https://www.youtube.com/watch?v=JnvKXcSI7yk)
+- [Node.js tutorials -Telusko](https://www.youtube.com/watch?v=yEHCfRWz-EI&list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG)
+- [Node.js in 7 easy steps - FireShip](https://www.youtube.com/watch?v=ENrzD9HAZK4)
+- [Node.js crash course - TraversyMedia](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [Node.js for beginners - CodeStackr](https://www.youtube.com/watch?v=2LUdnb-mls0)
+- [Rest API with node and express - MoshHamadani](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+- [Node.js for beginners - MoshHamadani](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [Express.js crash course - TraversyMedia](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- [Node.js tutotrial - CodeDammn](https://www.youtube.com/watch?v=pgHcWAh9sFA&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
+- [Node and express from scratch - TraversyMedia](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
+- [Build a rest API with node - DevEd](https://www.youtube.com/watch?v=vjf774RKrLc)
+- [Vanilla node.js rest API - TraversyMedia](https://www.youtube.com/watch?v=_1xa8Bsho6A)
+- [APIs with node.js - CleverProgrammer](https://www.youtube.com/watch?v=FLjKxVqnUns)
+- [Node.js crash course - TraversyMedia](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+
 ### MERN Stack:
 ### MEAN Stack:
 ### MEVN STACK:
