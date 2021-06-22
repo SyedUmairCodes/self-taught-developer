@@ -156,6 +156,7 @@
 - [8 hour JavaScript tutorial - CleverProgrammer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - [Weird JavaScript course - FireShip](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
 - [JavaScript fundamentals - CodingAddict](https://www.youtube.com/watch?v=2Ji-clqUYnA&list=PLnHJACx3NwAdT_8forzXYvx0o4A2VnoHX&index=2)
+- [JavaScript complete course - FreeCodeCamp](https://www.youtube.com/watch?v=jS4aFq5-91M)
 
 > There are so many great videos on JS that I simply can't include all of them, Apologies. 
 
@@ -255,7 +256,7 @@
 ### Node.js (including Express.js):
 
 - [Node.js for beginners - MoshHamadani](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-- [Node.js and Express.js full course - FreeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE&t=58s)
+- [Node.js and Express.js full course - FreeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
 - [Node.js in Hindi - ThapaTechnical](https://www.youtube.com/watch?v=IIpiLZGTWuo&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)
 - [Node.js Crash course - NetNinja](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 - [Node.js tutorial in Hindi - CodeStepByStep](https://www.youtube.com/watch?v=_30Nn8urbmU&list=PL8p2I9GklV44X970xDCQvts19-0XQWMeA)
@@ -284,9 +285,62 @@
 ### GraphQL:
 ### PHP:
 ### Laravel:
-### Pyhton:
+### Python:
+
+- [Python Tutorial for beginners - TechworldWithNana](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- [Python full course - Edureka](https://www.youtube.com/watch?v=WGJJIrtnfpk)
+- [Python for everybody - FreeCodeCamp](https://www.youtube.com/watch?v=WGJJIrtnfpk)
+- [Python AI full course - CleverPrgrammer](https://www.youtube.com/watch?v=XIrOM9oP3pA)
+- [Python tutorial for beginners - AmigoCodes](https://www.youtube.com/watch?v=LzYNWme1W6Q)
+- [12 beginner project in python - FreeCodeCamp](https://www.youtube.com/watch?v=8ext9G7xspg)
+- [Learn python by building games - FreeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc)
+- [Python full course - BroCode](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+- [Python complete course in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=gfDE2a7MKjA)
+- [Python complete course for beginners - FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=8s)
+- [Python prgramming playlist - Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Python in 1 hour - MoshHamadani](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Python full course - MoshHamadni](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python tutorial for beginners - CleverProgrammer](https://www.youtube.com/watch?v=4F2m91eKmts)
+- [6 quick projects in python - FreeCodeCamp](https://www.youtube.com/watch?v=SqvVm3QiQVk)
+- [Advance Python programming - FreeCodeCamp](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+- [OOP in python - TraversyMedia](https://www.youtube.com/watch?v=MikphENIrOo)
+- [Python and MySQL - TraversyMedia](https://www.youtube.com/watch?v=BHwgnGEhYG8)
+- [Python playlist - AmigoCodes](https://www.youtube.com/watch?v=-FXLwjugI_Q&list=PLwvrYc43l1MzSBvslCMVZGtLLaZTq3VTG)
+- [OOP in python for beginners - TechWithTim](https://www.youtube.com/watch?v=JeznW_7DlB0)
+- [OOP in python - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)
+- [Python OOP tutorial - CoreySchafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [OOP in python - PythonEngineer](https://www.youtube.com/watch?v=-pEs-Bss8Wc)
+
 ### Flask:
+
+- [Flask tutorial for beginners - Edureka](https://www.youtube.com/watch?v=lj4I_CvBnt0)
+- [Full website in flask - TechWithTim](https://www.youtube.com/watch?v=dam0GPOAvVI)
+- [Web programming with flask(Harvard's CS50) - FreeCodeCamp](https://www.youtube.com/watch?v=zdgYw-3tzfI)
+- [Flask and React microservices - FreeCodeCamp](https://www.youtube.com/watch?v=0iB5IPoTDts)
+- [Python flask web development - CodeWithHarry](https://www.youtube.com/watch?v=oA8brF3w5XQ)
+- [Flask tutorial for beginners - CleverProgrammer](https://www.youtube.com/watch?v=3mwFC4SHY-Y)
+- [Learn flask for python - FreeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+- [Flask course - FreeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+- [Data Structures with flask and python - FreeCodeCamp](https://www.youtube.com/watch?v=74NW-84BqbA)
+
 ### Django:
+
+- [Python Django tutorial - CleverProgrammer](https://www.youtube.com/watch?v=JT80XhYJdBw)
+- [Django 3 course - FreeCodeCamp](https://www.youtube.com/watch?v=04L0BbAcCpQ)
+- [Django for beginners - TechWithTim](https://www.youtube.com/watch?v=sm1mokevMWk)
+- [E-commerce website with Django - FreeCodeCamp](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+- [E-commerce with Vue.js and Django](https://www.youtube.com/watch?v=Yg5zkd9nm6w)
+- [3 django projects - FreeCodeCamp](https://www.youtube.com/watch?v=qPtScmB8CgA)
+- [Build a CRM with Django - JustDjango](https://www.youtube.com/watch?v=fOukA4Qh9QA)
+- [Django Todo list - DenisIvy](https://www.youtube.com/watch?v=llbtoQTt4qw)
+- [Django for beginners - Telusko](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+- [Django web app - CoreySchafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Django tutorial in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=JxzZxdht-XY)
+- [Django web framework - FreeCodeCamp](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+- [Django Python course -Academind](https://www.youtube.com/watch?v=t7DrJqcUviA)
+
+> You should check out PyPlane and justDjango youtube channels for more videos.
+
 ### Databases:
 ### SQL Vs. NoSQL databases:
 
@@ -305,6 +359,21 @@
 ### APIs:
 ### Testing:
 ### Docker:
+
+- [Docker in 100 seconds - FireShip](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+- [Learn Docker+DevOps - FreeCodeCamp](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
+- [Docker tutorial full devops course - FreeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Full Docker tutorial - MoshHamadani](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+- [Docker tutorial in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=Gw2Jrid4SaQ)
+- [Docker in 3 hours - TechworldWithNana](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Docker in 7 easy steps - FireShip](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [Docker playlist - CodeDamn](https://www.youtube.com/watch?v=avsJnrdN-YU&list=PLYxzS__5yYQlzv9_z1eZmZY8dzMlQFbaH)
+- [Docker tutorial for beginners - Telusko](https://www.youtube.com/watch?v=GGaDSAMeopo)
+- [Docker full tutorial - Edureka](https://www.youtube.com/watch?v=RSIstPUiEjY)
+- [Containerize python apps with docker - PythonEngineer](https://www.youtube.com/watch?v=bi0cKgmRuiA)
+- [Docker and Kubernetes full course - AmigoCodes](https://www.youtube.com/watch?v=bhBSlnQcq2k)
+- [DevOps crash course - TraversyMedia](https://www.youtube.com/watch?v=OXE2a8dqIAI)
+
 ### Deployment:
 
 ---
