@@ -235,6 +235,7 @@
 - [React in 100 seconds - FireShip](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [React tutorials - WebDevSimplified](https://www.youtube.com/watch?v=1wZoGFF_oi4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK)
 - [React hooks - WebDevSimplified](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+- [React Query tutorial - NetNinja](https://www.youtube.com/watch?v=x1rQ61otgtU&list=PL4cUxeGkcC9jpi7Ptjl5b50p9gLjOFani)
 
 
 > There are many more great tutorials on React.js because of it's popularity but I couldn't list them all. Apologies.
@@ -252,6 +253,8 @@
 - [Vue.js 3 tutorial - Codevolution](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
 - [Vue.js 3 tutorial in Hindi - CodeStepByStep](https://www.youtube.com/watch?v=h18hbBNxXac&list=PL8p2I9GklV45e7L_qC_mntM7FhSIV8pqa)
 - [Learn Vue.js 3 - TheEarthIsSquare](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
+- [Vue 3 In-dept course - DevAscend](https://www.youtube.com/watch?v=VDx4ZDeboNQ&list=PLDckhLrNepPREaex-IxF3XfkezJdVvCv1)
+- [Vue 3 tutorial - Codevolution](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
 
 ### Node.js (including Express.js):
 
@@ -275,12 +278,37 @@
 - [Vanilla node.js rest API - TraversyMedia](https://www.youtube.com/watch?v=_1xa8Bsho6A)
 - [APIs with node.js - CleverProgrammer](https://www.youtube.com/watch?v=FLjKxVqnUns)
 - [Node.js crash course - TraversyMedia](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [Node.js auth with JWT - NetNinja](https://www.youtube.com/watch?v=SnoAwLP1a-0&list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
 
 ### MERN Stack:
 ### MEAN Stack:
 ### MEVN STACK:
 ### Svelte:
+
+- [Svelte in 100 seconds - FireShip](https://www.youtube.com/watch?v=rv3Yq-B8qp4)
+- [Svelte tutorial - NetNinja](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+- [Svelte 3 crash course - DesignCourse](https://www.youtube.com/watch?v=BZzBtzl6aq4)
+- [Full stack svelte - EstebanCodes](https://www.youtube.com/watch?v=X6J41F2DadQ&list=PLAXzGp2JkeQ-kqYLgjBI0eFLx3jEJ8vmX)
+- [Learn svelte.js full course - FreeCodeCamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
+- [Svelte tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=vhGiGqZ78Rs)
+- [Beginner Svelte tutorial - PortEXE](https://www.youtube.com/watch?v=FkDN29z_D1k)
+- [Svelte In-depth course - DevAscend](https://www.youtube.com/watch?v=2ZZSc31e11g&list=PLDckhLrNepPTy-3nZbzdmHYo0ABesJMXJ)
+- [Svelte crash course - TraversyMedia](https://www.youtube.com/watch?v=uK2RnIzrQ0M )
+- [Svelte tutorial - Codevolution](https://www.youtube.com/watch?v=yG2UlXr9k9Q&list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx)
+- [Sapper.js tutorial - NetNinja](https://www.youtube.com/watch?v=-1hj5O-tQXo&list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ)
+
 ### Deno.js:
+
+- [Deno.js in 100 seconds - FireShip](https://www.youtube.com/watch?v=F0G9lZ7gecE)
+- [What is Deno.js - Academind](https://www.youtube.com/watch?v=3Vl8a3zYjiw)
+- [Deno.js full course - FreeCodeCamp](https://www.youtube.com/watch?v=TQUy8ENesGY)
+- [Deno.js crash course - TraversyMedia](https://www.youtube.com/watch?v=NHHhiqwcfRM)
+- [Deno.js crash course - Bitfumes](https://www.youtube.com/watch?v=zU6-8w1IR-I)
+- [Deno.js and express course - AdrianTwarog](https://www.youtube.com/watch?v=OktBhNexnhY)
+- [Deno.js tutorials - TheCodeholic](https://www.youtube.com/watch?v=cQQyYQrJzHU&list=PLLQuc_7jk__XEtengrbqYzdYMRdqVCKgS)
+- [Deno tutorial - NetNinja](https://www.youtube.com/watch?v=2iLeRzHvc10&list=PL4cUxeGkcC9gnaJdxuGvEGYQ9iHb8mxsh)
+- [Deno and Web-sockets - NetNinja](https://www.youtube.com/watch?v=CLLtnaOGIqo&list=PL4cUxeGkcC9gie1HrzOlzGZdEHLKhwNJE)
+
 ### TypeScript:
 ### GraphQL:
 ### PHP:
@@ -342,6 +370,12 @@
 > You should check out PyPlane and justDjango youtube channels for more videos.
 
 ### Databases:
+
+ - [7 database paradigms - NetNinja](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+ - [Database design course - FreeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+ - [Database systems - FreeCodeCamp](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+ - [SQL tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
 ### SQL Vs. NoSQL databases:
 
 - [SQL Vs NoSQL explained - BeABetterDev](https://www.youtube.com/watch?v=ruz-vK8IesE)
