@@ -283,6 +283,18 @@
 ### MERN Stack:
 ### MEAN Stack:
 ### MEVN STACK:
+
+- [Full stack vue - EstebanCodes](https://www.youtube.com/watch?v=vr6O-IYebXA)
+- [Mevn stack project - DCodeMania](https://www.youtube.com/watch?v=hBjhaveTm1s&list=PL6u82dzQtlfs88r-Q1_1L0ZnV8aB1KL0S)
+- [Full stack photobook using Vue.js - TraversyMedia](https://www.youtube.com/watch?v=w0p7ywfHesw)
+- [Full stack Vue.js](https://www.youtube.com/watch?v=j55fHUJqtyw&list=PLEHxjuvUU2QrilipaMLO-mWn3MEX6J-Oo)
+- [Vue.js Full stack course - CodeInspire](https://www.youtube.com/watch?v=UrUuvNyK-Os&list=PLB4AdipoHpxYPjGo0n2m6tmCLud_iSEbv)
+- [E-commerce using Vue.js and Django](https://www.youtube.com/watch?v=Yg5zkd9nm6w&t)
+- [6 hours Vue.js and firebase project - TraversyMedia](https://www.youtube.com/watch?v=ISv22NNL-aE)
+- [Full stack Vue.js - Academind](https://www.youtube.com/watch?v=FXY1UyQfSFw&list=PL55RiY5tL51qxUbODJG9cgrsVd7ZHbPrt)
+- [Full stack Vue.js message board - CodingGarden](https://www.youtube.com/watch?v=2xIoWm08SBM)
+- [Laravel and Vue.js - BoltSkills](https://www.youtube.com/watch?v=sH75VEfQKSc)
+- [Invoice app with Vue.js and Firebase](https://www.youtube.com/watch?v=vsJtN54aA7w)
 ### Svelte:
 
 - [Svelte in 100 seconds - FireShip](https://www.youtube.com/watch?v=rv3Yq-B8qp4)
