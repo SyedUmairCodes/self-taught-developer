@@ -236,7 +236,8 @@
 - [React tutorials - WebDevSimplified](https://www.youtube.com/watch?v=1wZoGFF_oi4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK)
 - [React hooks - WebDevSimplified](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - [React Query tutorial - NetNinja](https://www.youtube.com/watch?v=x1rQ61otgtU&list=PL4cUxeGkcC9jpi7Ptjl5b50p9gLjOFani)
-
+- [React router course - FreeCodeCamp](https://www.youtube.com/watch?v=Jppuj6M1sJ4)
+- [React with TypeScript - LarithHarb](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 
 > There are many more great tutorials on React.js because of it's popularity but I couldn't list them all. Apologies.
 
@@ -322,7 +323,38 @@
 - [Deno and Web-sockets - NetNinja](https://www.youtube.com/watch?v=CLLtnaOGIqo&list=PL4cUxeGkcC9gie1HrzOlzGZdEHLKhwNJE)
 
 ### TypeScript:
+
+- [TypeScript in 100 seconds - FireShip](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
+- [TypeScript course for beginners - Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+- [TypeScript tutorial - MoshHamadani](https://www.youtube.com/watch?v=NjN00cM18Z4)
+- [Basic TypeScript - FireShip](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+- [TypeScript tutorial - FireShip](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [TypeScript Full course for beginners - FreeCodeCamp](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+- [TypeScript in 50 minutes - Codevolution](https://www.youtube.com/watch?v=WBPrJSw7yQA)
+- [TypeScript crash course - LaithHarb](https://www.youtube.com/watch?v=u3L_82m5X-M)
+- [TypeScript with react - BenAwad](https://www.youtube.com/watch?v=Z5iWr6Srsj8)
+- [TypeScript generics - BenAwad](https://www.youtube.com/watch?v=nViEqpgwxHE)
+- [TypeScript for JS developers - CoderOne](https://www.youtube.com/watch?v=bP26hTy7Sho&list=PLvXDmnBbOF7RGTEsMFIGLbzTa4iUA9rGA)
+- [TypeScript with Vue.js - NetNinja](https://www.youtube.com/watch?v=JfI5PISLr9w&list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD)
+- [TypeScript and Webpack tutorial -NetNinja](https://www.youtube.com/watch?v=sOUhEJeJ-kI&list=PL4cUxeGkcC9hOkGbwzgYFmaxB0WiduYJC)
+- [Quiz application using TypeScript and React - FreeCodeCamp](https://www.youtube.com/watch?v=F2JCjVSZlG0)
+- [Shopping cart with TypeScript and React - FreeCodeCamp](https://www.youtube.com/watch?v=sfmL6bGbiN8)
+- [Full stack TypeScript with React and GraphQL - BenAwad](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
+
 ### GraphQL:
+
+- [GraphQL in 40 minutes - WebDevSimplified](https://www.youtube.com/watch?v=ZQL7tL2S0oQ)
+- [GraphQL in 100 seconds - FireShip](https://www.youtube.com/watch?v=eIQh02xuVw4)
+- [GraphQL tutorial - NetNinja](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
+- [GraphQL crash course](https://www.youtube.com/watch?v=_Zss2Mbz4Bs)
+- [GraphQL basics - FireShip](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
+- [GraphQL beginner tutorial - PedroTech](https://www.youtube.com/watch?v=Dr2dDWzThK8)
+- [GraphQL course - Academind](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- [GraphQL and Django - VeryAcademy](https://www.youtube.com/watch?v=kP7wQoFXUSc)
+- [Modern APIs with GraphQL - AWS](https://www.youtube.com/watch?v=bRnu7xvU1_Y)
+- [GraphQL, TypeScript, and Next.js - BenAwad](https://www.youtube.com/watch?v=kfmh2mMf3fs&list=PLN3n1USn4xlkDk8vPVtgyGG3_1eXYPrW-)
+- [GraphQL beginners - BenAwad](https://www.youtube.com/watch?v=DyvsMKsEsyE&list=PLN3n1USn4xln0j_NN9k4j5hS1thsGibKi)
+
 ### PHP:
 ### Laravel:
 ### Python:
@@ -350,6 +382,7 @@
 - [OOP in python - Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g)
 - [Python OOP tutorial - CoreySchafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [OOP in python - PythonEngineer](https://www.youtube.com/watch?v=-pEs-Bss8Wc)
+- [Backend web development with Python - FreeCodeCamp](https://www.youtube.com/watch?v=jBzwzrDvZ18)
 
 ### Flask:
 
@@ -401,6 +434,9 @@
 ### PostgresSQL:
 ### MongoDB:
 ### Redis:
+
+- [Redis tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+
 ### Firebase:
 ### APIs:
 ### Testing:
@@ -418,7 +454,10 @@
 - [Docker full tutorial - Edureka](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [Containerize python apps with docker - PythonEngineer](https://www.youtube.com/watch?v=bi0cKgmRuiA)
 - [Docker and Kubernetes full course - AmigoCodes](https://www.youtube.com/watch?v=bhBSlnQcq2k)
+- [Kubernetes crash course - LarithHarb](https://www.youtube.com/watch?v=llf65JSPmDY)
 - [DevOps crash course - TraversyMedia](https://www.youtube.com/watch?v=OXE2a8dqIAI)
+- [Docker with Linux - CoderOne](https://www.youtube.com/watch?v=IDVUy34vlSE)
+- [Docker crash course - LarithHarb](https://www.youtube.com/watch?v=Tyy1BUEmhwg)
 
 ### Deployment:
 
