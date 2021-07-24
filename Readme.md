@@ -2,11 +2,12 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SyedUmairAli2000/The-self-taught-web-developer-Youtube-edition?style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/syedumairali2000?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/syedumairali2000/The-self-taught-web-developer-Youtube-edition?style=for-the-badge)
 
-> This is a complete resource for learning full-stack web development it doesn't matter if you're a newbie, senior dev, or a hardcore veteran who fought in the great open-source war years ago.  anyone can benefit from this list of videos and the best part is these focuses on YouTube videos and courses (it's like a collection so you don't have to search every time. ) so you don't have to pay a single dime to learn the skills which will make you a great web developer.
+> This is a complete resource for learning full-stack web development it doesn't matter if you're a newbie, senior dev, or a hardcore veteran who fought in the great open-source war years ago. anyone can benefit from this list of videos and the best part is these focuses on YouTube videos and courses (it's like a collection so you don't have to search every time. ) so you don't have to pay a single dime to learn the skills which will make you a great web developer.
 
 > If you are a creator of any of the videos that are listed in this repo and want it removed just create an issue and tell me which video should be removed. And your suggestions are always welcomed.
 
 > One more thing... if you find this guide helpful to you please star it on [GitHub](https://github.com/SyedUmairAli2000/The-self-taught-web-developer-Youtube-edition) and subscribe to all the YouTubers who made all these awesome videos without whom this great resource wouldn't exist, it will make my day and I know that I couldn't include every single video out there and if you find any that you think should be in this list just let me know.
+
 ## Table of Contents:
 
 ---
@@ -18,10 +19,11 @@
 - [What is a web server - WebConcepts](https://www.youtube.com/watch?v=9J1nJOivdyw)
 - [How a CPU works - Fireship](https://www.youtube.com/watch?v=vqs_0W-MSB0)
 - [What are Dotfiles - Fireship](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
-- [Web Development in  2021 - TraversyMedia](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
+- [Web Development in 2021 - TraversyMedia](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 - [Complete Web development learning path - Academind](https://www.youtube.com/watch?v=2-akTTZyrcM)
 - [Top 20 Visual studio code extensions - TraversyMedia](https://www.youtube.com/watch?v=4xA5JePvCJc)
 - [Web dev Vs Web design - Edureka](https://www.youtube.com/watch?v=bDtxF7qSofg)
+
 ### HTML:
 
 - [HTML tutorial for beginners - Code with Mosh](https://www.youtube.com/watch?v=qz0aGYrrlhU)
@@ -66,6 +68,7 @@
 - [CSS Media queries - FreeCodeCamp](https://www.youtube.com/watch?v=aook54SsfhY)
 - [Flexbox and Grid tutorials - JoySahab](https://www.youtube.com/watch?v=7YUR0Igl9eU&list=PL6oJgZJHJcLB_M1MV8lj0ENKUvl1dewaP)
 - [CSS Tutorial for beginners - KeepCoding](https://www.youtube.com/watch?v=03Pvl2ecetA)
+- [CSS Flexbox tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=tXIhdp5R7sc)
 
 ### CSS Frameworks:
 
@@ -93,6 +96,7 @@
 - [Building SponsorShip with Tailwind - AdamWathan](https://www.youtube.com/watch?v=NaTcbDbSPu4&list=PL7CcGwsqRpSPuFMaD2gFiscXw7xjcvF2-)
 - [Tailwind:Zero to Production - TailwindLabs](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 - [Bootstrap for everyone - Codemy](https://www.youtube.com/watch?v=kKj3L2e5dY4&list=PLCC34OHNcOtpd6DTzCrAHOhhwzUZN6ut0)
+
 ### SASS:
 
 - [Sass tutorial for beginners - FreeCodeCamp](https://www.youtube.com/watch?v=_a5j7KoflTs)
@@ -121,6 +125,7 @@
 - [Make a Landing page from scratch - FreeCodeCamp](https://www.youtube.com/watch?v=aoQ6S1a32j8&t)
 - [Responsive Web design essentials - BringYourOwnLaptop](https://www.youtube.com/watch?v=YLl4Eu-KWMw&list=PLttcEXjN1UcHyrbiVs5Fx8hW3hmY_S8Bj)
 - [Build a modern responsive website - JhonKomarnicki](https://www.youtube.com/watch?v=LRy6k6vqPB4&list=PLVJZjCprNXtVOBuQ94_emIOO6LJn7qlME)
+
 ### Ui/Ux:
 
 - [Adobe XD - GFXMentor](https://www.youtube.com/watch?v=6C2Ye1makdY)
@@ -158,7 +163,7 @@
 - [JavaScript fundamentals - CodingAddict](https://www.youtube.com/watch?v=2Ji-clqUYnA&list=PLnHJACx3NwAdT_8forzXYvx0o4A2VnoHX&index=2)
 - [JavaScript complete course - FreeCodeCamp](https://www.youtube.com/watch?v=jS4aFq5-91M)
 
-> There are so many great videos on JS that I simply can't include all of them, Apologies. 
+> There are so many great videos on JS that I simply can't include all of them, Apologies.
 
 ### Advanced JavaScript:
 
@@ -280,9 +285,13 @@
 - [APIs with node.js - CleverProgrammer](https://www.youtube.com/watch?v=FLjKxVqnUns)
 - [Node.js crash course - TraversyMedia](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [Node.js auth with JWT - NetNinja](https://www.youtube.com/watch?v=SnoAwLP1a-0&list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
+- [Node,js tutorial - Codemy](https://www.youtube.com/watch?v=CO1SmV_Cmd8&list=PLCC34OHNcOtrWUwMLr20Tes1STYi-TVC1)
+- []
 
 ### MERN Stack:
+
 ### MEAN Stack:
+
 ### MEVN STACK:
 
 - [Full stack vue - EstebanCodes](https://www.youtube.com/watch?v=vr6O-IYebXA)
@@ -296,6 +305,7 @@
 - [Full stack Vue.js message board - CodingGarden](https://www.youtube.com/watch?v=2xIoWm08SBM)
 - [Laravel and Vue.js - BoltSkills](https://www.youtube.com/watch?v=sH75VEfQKSc)
 - [Invoice app with Vue.js and Firebase](https://www.youtube.com/watch?v=vsJtN54aA7w)
+
 ### Svelte:
 
 - [Svelte in 100 seconds - FireShip](https://www.youtube.com/watch?v=rv3Yq-B8qp4)
@@ -306,7 +316,7 @@
 - [Svelte tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=vhGiGqZ78Rs)
 - [Beginner Svelte tutorial - PortEXE](https://www.youtube.com/watch?v=FkDN29z_D1k)
 - [Svelte In-depth course - DevAscend](https://www.youtube.com/watch?v=2ZZSc31e11g&list=PLDckhLrNepPTy-3nZbzdmHYo0ABesJMXJ)
-- [Svelte crash course - TraversyMedia](https://www.youtube.com/watch?v=uK2RnIzrQ0M )
+- [Svelte crash course - TraversyMedia](https://www.youtube.com/watch?v=uK2RnIzrQ0M)
 - [Svelte tutorial - Codevolution](https://www.youtube.com/watch?v=yG2UlXr9k9Q&list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx)
 - [Sapper.js tutorial - NetNinja](https://www.youtube.com/watch?v=-1hj5O-tQXo&list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ)
 
@@ -354,9 +364,35 @@
 - [Modern APIs with GraphQL - AWS](https://www.youtube.com/watch?v=bRnu7xvU1_Y)
 - [GraphQL, TypeScript, and Next.js - BenAwad](https://www.youtube.com/watch?v=kfmh2mMf3fs&list=PLN3n1USn4xlkDk8vPVtgyGG3_1eXYPrW-)
 - [GraphQL beginners - BenAwad](https://www.youtube.com/watch?v=DyvsMKsEsyE&list=PLN3n1USn4xln0j_NN9k4j5hS1thsGibKi)
+- [GraphQL with Keystone.js - TraversyMedia](https://www.youtube.com/watch?v=3cH1BXJbfa4)
 
 ### PHP:
+
+- [PHP tutorial in hindi - CodeWithHarry](https://www.youtube.com/watch?v=1SnPKhCdlsU)
+- [PHP full course - FreeCodeCamp](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+- [PHP with MySQL - NetNinja](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)
+- [PHP for absolute beginners - TraversyMedia](https://www.youtube.com/watch?v=2eebptXfEvw)
+- [PHP tutorial - Edureka](https://www.youtube.com/watch?v=hx38tnlYGlA)
+- [PHP tutorials - DanyKorssing](https://www.youtube.com/watch?v=qVU3V0A05k8&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-)
+- [PHP tutorial in Hindi/Urdu - YahooBaba](https://www.youtube.com/watch?v=a_qREkJ78f4&list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs)
+- [PHP OOP programming - NetNinja](https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy)
+- [OOP in PHP - DaniKorssing](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [PHP OOP tutorial in Hindi/Urdu - YahooBaba](https://www.youtube.com/watch?v=MVEAYafrgKM&list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt)
+- [Learn PHP the right way - ProgramWithGio](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+- [PHP for programming - Codemy](https://www.youtube.com/watch?v=Fn2iUM-jgCo&list=PLCC34OHNcOto2JZX7jfD6lAbsEXg_zX4D)
+
 ### Laravel:
+
+- [Laravel tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+- [Laravel crash course - TraversyMedia](https://www.youtube.com/watch?v=MFh0Fd7BsjE)
+- [Laravel tutorial - CodeStepByStep](https://www.youtube.com/watch?v=0urHFBFHsLc&list=PL8p2I9GklV46dciS4GDzBFHBi0JVIbnzT)
+- [Complete Laravel tutorial - CodeWithDarry](https://www.youtube.com/watch?v=376vZ1wNYPA)
+- [Laravel tutorial - Edureka](https://www.youtube.com/watch?v=bkyjiXSx6WE)
+- [Create a Laravel API - DigitalOcean](https://www.youtube.com/watch?v=mgdMeXkviy8)
+- [Laravel for beginners - NetNinja](https://www.youtube.com/watch?v=zckH4xalOns&list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q)
+- [Laravel complete course - BitFumes](https://www.youtube.com/watch?v=BXiHvgrJfkg)
+- [Laravel restAPI - TraversyMedia](https://www.youtube.com/watch?v=MT-GJQIY3EU)
+
 ### Python:
 
 - [Python Tutorial for beginners - TechworldWithNana](https://www.youtube.com/watch?v=t8pPdKYpowI)
@@ -411,15 +447,16 @@
 - [Django tutorial in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=JxzZxdht-XY)
 - [Django web framework - FreeCodeCamp](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 - [Django Python course -Academind](https://www.youtube.com/watch?v=t7DrJqcUviA)
+- [Django complete course - BitFumes](https://www.youtube.com/watch?v=aY43fUGlB7E&list=PLe30vg_FG4OSKH_8zpLlnf4WpNlzL526E)
 
 > You should check out PyPlane and justDjango youtube channels for more videos.
 
 ### Databases:
 
- - [7 database paradigms - NetNinja](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
- - [Database design course - FreeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
- - [Database systems - FreeCodeCamp](https://www.youtube.com/watch?v=4cWkVbC2bNE)
- - [SQL tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [7 database paradigms - NetNinja](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+- [Database design course - FreeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+- [Database systems - FreeCodeCamp](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+- [SQL tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 ### SQL Vs. NoSQL databases:
 
@@ -431,15 +468,47 @@
 - [MySQL vs MongoDB - HiteshChahudhary](https://www.youtube.com/watch?v=Ke4G-c94VBM)
 
 ### MySQL:
+
+- [MySQL tutorial - MoshHamadani](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [MySQL tutorial in Hindi/Urdu - YahooBaba](https://www.youtube.com/watch?v=KlWOr2RwqM4&list=PL0b6OzIxLPbzf12lu5etX_vjN-eUxgxnr)
+- [MySQL complete course - FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=9s)
+- [MySQL crash course - TraversyMedia](https://www.youtube.com/watch?v=9ylj9NR0Lcg)
+- [MySQL tutorial - Edureka](https://www.youtube.com/watch?v=WmGgxTpGs_8)
+- [MySQL basics - FireShip](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
+- [MySQL database full course - FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
+- [MySQL with Node.js - Codemy](https://www.youtube.com/watch?v=MNI72L-w1a8&list=PLCC34OHNcOtooCBr0EbjNXuIIh8dZoswx)
+
 ### PostgresSQL:
+
+- [Learn Postgres - AmigoCodes](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [Postgres tutorial for beginners - Edureka](https://www.youtube.com/watch?v=-VO7YjQeG6Y)
+- [Postgres course - AmigoCodes](https://www.youtube.com/watch?v=XQ_6G0iCyMQ&list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
+- [Postgres tutorial - Simplilearn](https://www.youtube.com/watch?v=eMIxuk0nOkU)
+- [Postgres tutorial for beginners - BenAwad](https://www.youtube.com/watch?v=tp_5c6jaNQE)
+- [Intro to Postgres - Codemy](https://www.youtube.com/watch?v=Dd2ej-QKrWY)
+
 ### MongoDB:
+
+- [MongoDB crash course - TraversyMedia](https://www.youtube.com/watch?v=-56x56UppqQ)
+- [MongoDB full course - Simplilearn](https://www.youtube.com/watch?v=lBBtq3Oawqw)
+- [MongoDB tutorial in Hindi - ThapaTechnical](https://www.youtube.com/watch?v=XeDM28c5kO4&list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa)
+- [MongoDB for beginners - AmigoCodes](https://www.youtube.com/watch?v=Www6cTUymCY)
+- [MongoDB tutorial in Hindi - CodeWithHarry](https://www.youtube.com/watch?v=oSIv-E60NiU)
+- [MongoDB with Python - FreeCodeCamp](https://www.youtube.com/watch?v=E-1xI85Zog8)
+- [MongoDB with Node.js - FreeCodeCamp](https://www.youtube.com/watch?v=4yqu8YF29cU)
+- [MongoDB tutorial - Intelipaat](https://www.youtube.com/watch?v=t4wPUQ5RElY)
+- [MongoDB for beginners - NetNinja](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+
 ### Redis:
 
 - [Redis tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=XCsS_NVAa1g)
 
 ### Firebase:
+
 ### APIs:
+
 ### Testing:
+
 ### Docker:
 
 - [Docker in 100 seconds - FireShip](https://www.youtube.com/watch?v=Gjnup-PuquQ)
@@ -463,5 +532,4 @@
 
 ---
 
-> Congrats you made it to the end of this guide. I hope you learned a lot and if any of the links is not working or is out dated please let me know and don't forget to star ⭐  the repository. 
-
+> Congrats you made it to the end of this guide. I hope you learned a lot and if any of the links is not working or is out dated please let me know and don't forget to star ⭐ the repository.
