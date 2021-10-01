@@ -289,6 +289,7 @@
 - []
 
 ### MERN Stack:
+- [MERN Stack Course - FreeCodeCamp](https://www.youtube.com/watch?v=mrHNSanmqQ4)
 
 ### MEAN Stack:
 
@@ -506,6 +507,8 @@
 ### Firebase:
 
 ### APIs:
+- [Football-data](https://www.football-data.org)
+- [Rapid API](https://rapidapi.com/hub)
 
 ### Testing:
 
