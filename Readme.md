@@ -289,6 +289,7 @@
 - []
 
 ### MERN Stack:
+- [MERN Stack Course - FreeCodeCamp](https://www.youtube.com/watch?v=mrHNSanmqQ4)
 
 ### MEAN Stack:
 
@@ -506,6 +507,7 @@
 ### Firebase:
 
 ### APIs:
+- [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
 ### Testing:
 
