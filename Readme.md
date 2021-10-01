@@ -507,8 +507,7 @@
 ### Firebase:
 
 ### APIs:
-- [Football-data](https://www.football-data.org)
-- [Rapid API](https://rapidapi.com/hub)
+- [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
 ### Testing:
 
