@@ -147,10 +147,6 @@
 - [Ui/Ux tutorials - DevEd](https://www.youtube.com/watch?v=FsbvGMkPHBQ&list=PLDyQo7g0_nsWnzPqYMqoJpm08ULrkiIbt)
 - [Glass website -DevEd](https://www.youtube.com/watch?v=O7WbVj5apxU)
 
-### Flutter:
-
-- [Intro to Flutter - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumBD6UaOi8bXY9J9fxAodX6E)
-
 ### JavaScript:
 
 - [JavaScript full course - Edureka](https://www.youtube.com/watch?v=o1IaduQICO0)
@@ -457,13 +453,10 @@
 
 > You should check out PyPlane and justDjango youtube channels for more videos.
 
-### Rust:
-
-- [Intro to Rust - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
-
 ### Golang:
 
 - [Golang - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9)
+- [Build Web Apps with Go Language (golang) - Learn To Code](https://www.youtube.com/watch?v=Vlie-srOU8c)
 
 ### Databases:
 
@@ -519,6 +512,8 @@
 
 ### Firebase:
 
+-[Firebase](https://www.youtube.com/c/firebase)
+
 ### APIs:
 - [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
@@ -545,6 +540,8 @@
 
 ### Deployment:
 
+- [Deploy Websites In Seconds With Netlify - Traversy Media](youtube.com/watch?v=bjVUqvcCnxM)
+- 
 ---
 
 > Congrats you made it to the end of this guide. I hope you learned a lot and if any of the links is not working or is out dated please let me know and don't forget to star ⭐ the repository.
