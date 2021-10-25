@@ -147,6 +147,10 @@
 - [Ui/Ux tutorials - DevEd](https://www.youtube.com/watch?v=FsbvGMkPHBQ&list=PLDyQo7g0_nsWnzPqYMqoJpm08ULrkiIbt)
 - [Glass website -DevEd](https://www.youtube.com/watch?v=O7WbVj5apxU)
 
+### Flutter:
+
+- [Intro to Flutter - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumBD6UaOi8bXY9J9fxAodX6E)
+
 ### JavaScript:
 
 - [JavaScript full course - Edureka](https://www.youtube.com/watch?v=o1IaduQICO0)
@@ -290,6 +294,7 @@
 
 ### MERN Stack:
 - [MERN Stack Course - FreeCodeCamp](https://www.youtube.com/watch?v=mrHNSanmqQ4)
+- [Learn The MERN Stack - Traversy Media ](https://youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 
 ### MEAN Stack:
 
@@ -451,6 +456,14 @@
 - [Django complete course - BitFumes](https://www.youtube.com/watch?v=aY43fUGlB7E&list=PLe30vg_FG4OSKH_8zpLlnf4WpNlzL526E)
 
 > You should check out PyPlane and justDjango youtube channels for more videos.
+
+### Rust:
+
+- [Intro to Rust - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
+
+### Golang:
+
+- [Golang - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9)
 
 ### Databases:
 
