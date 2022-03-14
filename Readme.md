@@ -290,6 +290,7 @@
 
 ### MERN Stack:
 - [MERN Stack Course - FreeCodeCamp](https://www.youtube.com/watch?v=mrHNSanmqQ4)
+- [Learn The MERN Stack - Traversy Media ](https://youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 
 ### MEAN Stack:
 
@@ -452,6 +453,11 @@
 
 > You should check out PyPlane and justDjango youtube channels for more videos.
 
+### Golang:
+
+- [Golang - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9)
+- [Build Web Apps with Go Language (golang) - Learn To Code](https://www.youtube.com/watch?v=Vlie-srOU8c)
+
 ### Databases:
 
 - [7 database paradigms - NetNinja](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
@@ -506,6 +512,8 @@
 
 ### Firebase:
 
+-[Firebase](https://www.youtube.com/c/firebase)
+
 ### APIs:
 - [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
@@ -532,6 +540,8 @@
 
 ### Deployment:
 
+- [Deploy Websites In Seconds With Netlify - Traversy Media](youtube.com/watch?v=bjVUqvcCnxM)
+- 
 ---
 
 > Congrats you made it to the end of this guide. I hope you learned a lot and if any of the links is not working or is out dated please let me know and don't forget to star ⭐ the repository.
