@@ -471,6 +471,7 @@
 - [SQL Vs NoSQL - Academind](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 - [SQL Vs NoSQL which is better - WebDevSimplified](https://www.youtube.com/watch?v=t0GlGbtMTio)
 - [SQL Vs NoSQL - Edureka](https://www.youtube.com/watch?v=QwevGzVu_zk)
+- [SQL Vs NoSQL - Scaler Topics](https://www.scaler.com/topics/course/sql-vs-nosql/)
 - [Difference betweenSQL Vs NoSQL - SimpliLearn](https://www.youtube.com/watch?v=jh14LlMHyds)
 - [MySQL vs MongoDB - HiteshChahudhary](https://www.youtube.com/watch?v=Ke4G-c94VBM)
 
