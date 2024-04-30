@@ -32,6 +32,10 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [Bro Code](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 - [CodeBlock](https://www.youtube.com/watch?v=_izCojOyiag)
 
+# JavaScript Ecosysten
+
+- [TanStack Query - CodeGenix](https://www.youtube.com/watch?v=3e-higRXoaM)
+
 # Express.js
 
 - [Anson the Web Dev](https://www.youtube.com/watch?v=nH9E25nkk3I)
@@ -40,6 +44,7 @@ If I forgot to list the video of your favorite creator please feel free to creat
 
 - [Anson the Web Dev](https://www.youtube.com/watch?v=lAFbKzO-fss)
 - [Traversy Media](https://www.youtube.com/watch?v=LDB4uaJ87e0)
+- [React Hook Froms - CodeGenix](https://www.youtube.com/watch?v=7anLE_RoDwU)
 
 # Python
 
@@ -53,6 +58,15 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [FreeCodeCamp](https://www.youtube.com/watch?v=KBDSJU3cGkc)
 - [FreeCodeCamp](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 - [HuXn Web Dev](https://www.youtube.com/watch?v=h4R-nJbM_ac)
+  
 # PHP
 
 - [LaraCasts](https://www.youtube.com/watch?v=fw5ObX8P6as)
+
+# Business and Entrepreneurship
+
+- [Simon Squib](https://www.youtube.com/watch?v=9VlvbpXwLJs)
+
+# English for Developers
+
+- [IELTS Advantage](https://www.youtube.com/watch?v=xGtKdsVxV8A)
