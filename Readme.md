@@ -46,6 +46,10 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [Traversy Media](https://www.youtube.com/watch?v=LDB4uaJ87e0)
 - [React Hook Froms - CodeGenix](https://www.youtube.com/watch?v=7anLE_RoDwU)
 
+# UI/UX
+
+- [Gary Simon - Design Course](https://www.youtube.com/watch?v=cTUD_vCrY7M)
+
 # Python
 
 - [Clear Code](https://www.youtube.com/watch?v=mDKM-JtUhhc)
