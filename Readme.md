@@ -1,13 +1,14 @@
 # Introduction
-This repo contains basic level tutorials for learning how to code so that even some one with absolutely no experience can start learning. 
+
+This repo contains basic level tutorials for learning how to code so that even some one with absolutely no experience can start learning.
 
 > The old version of this repo can be found in the archive.md file.
 
-I've also added some online bootcamps that are free for everyone. All resources listed here are mostly YouTube videos but since there are so many so I can't include them all. 
+I've also added some online bootcamps, books, articles, and other resources that are free for everyone. All resources listed here are mostly YouTube videos but since there are so many so I can't include them all.
 
 ## Contributing
-If I forgot to list the video of your favorite creator please feel free to create a pull-request and add it and make sure to read the CONTRIBUTING.md file before creating a pull request.
 
+If I forgot to list the video of your favorite creator please feel free to create a pull-request and add it and make sure to read the CONTRIBUTING.md file before creating a pull request.
 
 # Bootcamps and Courses
 
@@ -18,6 +19,25 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [CS50x](https://cs50.harvard.edu/x/2024/)
 - [Web.dev](https://web.dev/learn)
 - [MDN Docs](https://developer.mozilla.org/en-US/curriculum/)
+- [Arize University](https://courses.arize.com/courses/)
+- [Lambda Test](https://www.lambdatest.com/certifications/)
+- [Accelq](https://academy.accelq.com/certifications)
+- [Atlassian](https://university.atlassian.com/student/catalog)
+- [Weights and Biases](https://www.wandb.courses/pages/w-b-courses)
+- [UiPath Academy](https://academy.uipath.com/)
+- [Ux Database](https://www.uxdatabase.io/free-product-design-course)
+- [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
+- [Shopify](https://academy.shopify.com/)
+- [Neo4j](https://graphacademy.neo4j.com/certifications/)
+- [Confluent](https://developer.confluent.io/)
+- [PortSwigger](https://portswigger.net/web-security)
+
+# Books and Articles
+
+- [Frontend Masters 2024 Handbook](https://frontendmasters.com/guides/front-end-handbook/2024/)
+- [ZipBoard UX Testing Guide](https://zipboard.co/blog/ui-ux/usability-testing/)
+- [R for Data Science -2nd ed](https://r4ds.hadley.nz/)
+- [HyperMedia Systems](https://hypermedia.systems/book/contents/)
 
 # HTML & CSS
 
@@ -54,7 +74,7 @@ If I forgot to list the video of your favorite creator please feel free to creat
 
 - [Clear Code](https://www.youtube.com/watch?v=mDKM-JtUhhc)
 - [Bro Code](https://www.youtube.com/watch?v=XKHEtdqhLK8&pp=ygUScHl0aG9uIGZ1bGwgY291cnNl)
-- [Huxn WebDev](https://www.youtube.com/watch?v=JZDQKj9BOoc&pp=ygUEaHV4bg%3D%3D) 
+- [Huxn WebDev](https://www.youtube.com/watch?v=JZDQKj9BOoc&pp=ygUEaHV4bg%3D%3D)
 
 # SQL (Includes both PostgreSQL and MySQL)
 
@@ -62,7 +82,7 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [FreeCodeCamp](https://www.youtube.com/watch?v=KBDSJU3cGkc)
 - [FreeCodeCamp](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 - [HuXn Web Dev](https://www.youtube.com/watch?v=h4R-nJbM_ac)
-  
+
 # PHP
 
 - [LaraCasts](https://www.youtube.com/watch?v=fw5ObX8P6as)
