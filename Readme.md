@@ -87,6 +87,10 @@ If I forgot to list the video of your favorite creator please feel free to creat
 
 - [LaraCasts](https://www.youtube.com/watch?v=fw5ObX8P6as)
 
+# System Design
+
+- [Karan Pratap Singh](https://www.karanpratapsingh.com/courses/system-design)
+
 # Business and Entrepreneurship
 
 - [Simon Squib](https://www.youtube.com/watch?v=9VlvbpXwLJs)
