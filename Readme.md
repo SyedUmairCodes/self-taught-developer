@@ -91,6 +91,11 @@ If I forgot to list the video of your favorite creator please feel free to creat
 
 - [Karan Pratap Singh](https://www.karanpratapsingh.com/courses/system-design)
 
+# Ethical Hacking
+
+- [Junior Cybersecurity Analyst - CISCO](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)
+- [Ethical Hacker - CISCO](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)
+
 # Business and Entrepreneurship
 
 - [Simon Squib](https://www.youtube.com/watch?v=9VlvbpXwLJs)
