@@ -31,6 +31,7 @@ If I forgot to list the video of your favorite creator please feel free to creat
 - [Neo4j](https://graphacademy.neo4j.com/certifications/)
 - [Confluent](https://developer.confluent.io/)
 - [PortSwigger](https://portswigger.net/web-security)
+- [Learn to Cloud](https://learntocloud.guide/)
 
 # Books and Articles
 
